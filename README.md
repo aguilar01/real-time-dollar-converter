@@ -35,3 +35,7 @@ pip install -r requirements.txt
 Execute:
 
 python app.py
+
+## 📸 Screenshot da Aplicação
+
+![Screenshot da aplicação](calcula.jpeg)
